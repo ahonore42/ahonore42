@@ -5,9 +5,9 @@
   </div>
   <div style="width: 50%;">
    
-   <div stye="width: 100%">
+   <div style="width: 100%;">
 
-  
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -26,13 +26,14 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+   <div style="width: 100%">
+     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" />
+   </div>
 
 
   
    </div>
-   <div style="width: 100%">
-     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" />
-   </div>
+   
     
   </div>
 </div>
