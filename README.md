@@ -1,13 +1,11 @@
 ### Github Stats
-<div style="display: grid; grid-template-columns: 1fr 1fr; position: absolute; height: 20vh;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; position: absolute;">
   <div style="width: 50%; position: relative;">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahonore42&show_icons=true&theme=onedark" />
+    <img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=ahonore42&show_icons=true&theme=onedark" />
   </div>
   <div style="width: 50%; position: relative;">
-   <div>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" />
-   </div>
-   <div>
+   
+   <div stye="width: 100%">
 
   
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -31,6 +29,9 @@
 
 
   
+   </div>
+   <div>
+     <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" />
    </div>
     
   </div>
