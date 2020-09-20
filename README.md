@@ -1,6 +1,6 @@
 ### Github Stats
 ![Adam's github stats](https://github-readme-stats.vercel.app/api?username=ahonore42&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark)](https://github.com/ahonore42/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark)](https://github.com/ahonore42/)
 
 
 <!--
