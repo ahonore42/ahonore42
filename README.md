@@ -1,15 +1,11 @@
 <div>
   <h2>Github Stats</h2>
   <div>
-
    <img src="https://github-readme-stats.vercel.app/api?username=ahonore42&show_icons=true&theme=onedark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" />
-
   </div>
 </div>
 
 <div>
-   
-
   <h2>Technologies</h2>
   <div>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
@@ -30,7 +26,6 @@
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
   </div>
-  
 </div>
 
 
