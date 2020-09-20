@@ -5,8 +5,6 @@
 body {
   background-color: #282c34;
 }
-
-
       </style>
       <div>
         <div>
@@ -38,6 +36,7 @@ body {
             <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
           </div>
         </div>
+      </div>
     </div>
   </foreignObject>
 </svg>
