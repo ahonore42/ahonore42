@@ -1,9 +1,9 @@
 ### Github Stats
-<div style="display: grid; grid-template-columns: 1fr 1fr; position: absolute;">
-  <div style="width: 50%; position: relative;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; width: 100%;">
+  <div style="width: 50%;">
     <img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=ahonore42&show_icons=true&theme=onedark" />
   </div>
-  <div style="width: 50%; position: relative;">
+  <div style="width: 50%;">
    
    <div stye="width: 100%">
 
@@ -30,8 +30,8 @@
 
   
    </div>
-   <div>
-     <img style="width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" />
+   <div style="width: 100%">
+     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" />
    </div>
     
   </div>
