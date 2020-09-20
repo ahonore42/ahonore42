@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Github Stats
 ![Adam's github stats](https://github-readme-stats.vercel.app/api?username=ahonore42&show_icons=true&theme=onedark)
 
