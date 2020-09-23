@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
     <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript" />
     <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react" />
+    <img src="https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js" />
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
     <img src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django" />
@@ -30,6 +31,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />
+    <img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp" />
   </div>
 </div>
 
