@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />
     <img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp" />
+    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia" />
   </div>
 </div>
 
