@@ -21,8 +21,9 @@
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" />
     <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql" />
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws" />
+    <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens" />
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
-    <img src="https://img.shields.io/badge/-MaterialUI-0081CB?style=flat-square&logo=material-ui" />
+    <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui" />
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />
