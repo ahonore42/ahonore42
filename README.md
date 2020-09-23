@@ -1,9 +1,4 @@
-<div>
-  <h2>Github Stats</h2>
-  <div style="display: grid; grid-template-columns: 1fr 1fr;">
-   <img src="https://github-readme-stats.vercel.app/api?username=ahonore42&show_icons=true&theme=onedark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" />
-  </div>
-</div>
+
 
 <div>
   <h2>Technologies</h2>
