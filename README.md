@@ -33,6 +33,8 @@
     <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />
     <img src="https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp" />
     <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia" />
+    <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />
+    <img src="https://img.shields.io/badge/-Zoom-black?style=flat-square&logo=zoom" />
   </div>
 </div>
 
