@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
     <img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
     <img src="https://img.shields.io/badge/-Django-darkgreen?style=flat-square&logo=django" />
+    <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask" />
+    <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter" />
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
     <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
     <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql" />
@@ -27,6 +29,7 @@
     <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
     <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku" />
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code" />
   </div>
 </div>
 
