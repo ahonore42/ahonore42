@@ -1,8 +1,7 @@
 <div>
   <h2>Github Stats</h2>
-  <div style="display: grid; grid-template-columns: 1fr 1fr;">
-   <img src="https://github-readme-stats.vercel.app/api?username=ahonore42&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" />
-  </div>
+   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahonore42&count_private=true&include_all_commits=true&show_icons=true&theme=onedark" /></p>
+   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=onedark" /></p>
 </div>
 
 <div>
