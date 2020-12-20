@@ -34,6 +34,7 @@
   <img src="https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask" />
   </h3>
   <h3>Developer Tools: 
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest" />
   <img src="https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=jupyter" />
   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
