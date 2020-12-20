@@ -15,6 +15,7 @@
   </h3>
   <h3>Frontend: 
   <img src="https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux" />
   <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui" />
   </h3>
