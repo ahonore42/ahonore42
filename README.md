@@ -3,13 +3,9 @@
    <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=ahonore42&count_private=true&include_all_commits=true&show_icons=true&theme=radical" /></p>
    <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahonore42&layout=compact&theme=radical" /></p>
 </div>
-
 <p align="center"><img height="300" width="400" src="./ss/rainbow.gif" alt="rainbow" /></p>
-
-
 <div>
   <h2>Technologies</h2>
-
   <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
     <p >Languages: </p>
     <p ><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
